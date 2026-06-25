@@ -27,7 +27,7 @@
 
 ## ⚜️ Professional Focus & Objective
 
-> *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Microsoft's mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*[cite: 1]
+> *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Microsoft's mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*
 
 ### ⚡ Culture & Mindset Alignment
 * **Growth Mindset:** Fully aligned with structural engineering cultures of continuous personal, technical, and team-driven learning[cite: 1].
@@ -72,30 +72,40 @@
 
 ---
 
-## ⚜️ Handled Contributions & Project Portfolio
+## ⚜️ Project Contributions & Engineering Impact
 
 ### 🗳️ 01. EV-CAST — SecureVote | *Assistant Developer*[cite: 1]
-* **The Project:** A full-stack electronic voting platform engineered to support 700+ members with multi-position balloting capabilities[cite: 1].
-* **Contributions:** Assisted in implementing production role-based authentication layers, tamper-resistant session management, and Supabase Realtime data synchronization loops[cite: 1].
+* **The Project:** A verifiable, full-stack live electronic voting platform engineered to support 700+ real-world members on an election day[cite: 1].
+* **Core Architecture & Features:** 
+  * Implemented **700 unique voter credentials**, ensuring each was independently issued, tracked, and guarded.
+  * Supported **role-based access control layers** to cleanly segment separate voter and administrative dashboard pipelines[cite: 1].
+  * Assisted in integrating a **Supabase Realtime sync layer** to broadcast live, multi-position ballot vote count tallies dynamically across all connected user devices[cite: 1].
+  * Standardized data handling routines to facilitate one-click exportable results CSV reports for non-technical staff.
 
 ### 🩺 02. PCOD Care AI | *Assistant Developer*[cite: 1]
-* **The Project:** An AI-powered healthcare diagnostic assistant running specialized reasoning frameworks[cite: 1].
-* **Contributions:** Supported the development of structured, multi-turn conversational prompt chains designed to deliver sensitive guidance while adhering strictly to responsible AI safety principles[cite: 1].
+* **The Project:** An AI-powered, multi-module corporate wellness and diagnostic platform leveraging LLM capabilities[cite: 1].
+* **Core Architecture & Features:**
+  * Supported the development of structured, multi-turn conversational prompt chains utilizing the Claude API as the primary reasoning engine[cite: 1].
+  * Assisted in building a comprehensive **cycle phase tracker** mapping specific diagnostic attributes across follicular, ovulation, and luteal phases with severity scoring mechanics.
+  * Maintained structural focus on integrating interactive hospital locator databases for region clusters alongside simplified plain-language guidance documentation for major Indian government health schemes (e.g., Ayushman Bharat).
 
 ### 🌾 03. AgriGuard | *Assistant Developer*[cite: 1]
-* **The Project:** An automated crop disease detection system leveraging computer vision capabilities for localized smallholder farmer support[cite: 1].
-* **Contributions:** Helped structure end-to-end user workflows (plant image input $\rightarrow$ LLM vision inference $\rightarrow$ farmer-readable output) optimized for regional agriculture needs[cite: 1].
+* **The Project:** A robust, **15-screen farmer support platform** designed to drive localized agricultural insights and crop security[cite: 1].
+* **Core Architecture & Features:**
+  * Assisted in crafting the end-to-end processing pipelines linking a **40+ crop database** (disease, soil, and seasoning models) with Claude Vision image analysis engines[cite: 1].
+  * Co-developed data parsers connecting to open APIs (e.g., Open-Meteo) to stream live weather analytics and real-time mandi market price indices.
+  * Formulated mathematical state tracking arrays supporting an interactive predictive yield and production cost model.
 
 ---
 
-### Additional Core Engineering Projects
+### Additional Core Co-Development Projects
 
-| # | Project | Role | Tech Highlights & Contribution |
+| # | Project | Role | Upgraded Technical Implementation Scope |
 |---|---|---|---|
-| **04** | **BizConnect**[cite: 1] | Assistant Developer[cite: 1] | Integrated Claude API features to automatically generate personalized profile summaries and icebreakers matching entrepreneurs with investors[cite: 1]. |
-| **05** | **Chemify**[cite: 1] | Assistant Developer[cite: 1] | Supported advanced prompt engineering workflows to manage multi-turn educational explaining models and continuity in chemical equation balancing[cite: 1]. |
-| **06** | **DocSum**[cite: 1] | Assistant Developer[cite: 1] | Collaborated on an intelligent Natural Language Processing (NLP) document summarization engine refining parsing logic to output hierarchical summaries[cite: 1]. |
-| **07** | **Rolls-Royce Cinematic Scroll**[cite: 1] | Assistant Frontend Dev[cite: 1] | Managed frame-preloading logic and frontend performance optimizations for scroll-triggered image sequence animations using vanilla JS & Three.js[cite: 1]. |
+| **04** | **BizConnect**[cite: 1] | Assistant Developer[cite: 1] | Contributed to an AI-driven, peer-to-peer networking platform using Claude API loops to parse investor portfolios and instantly generate contextual profile icebreakers[cite: 1]. |
+| **05** | **Chemify**[cite: 1] | Assistant Developer[cite: 1] | Designed structured SVG-interactive graphics and engineered persistent conversational logic to securely balance complex multi-turn chemical equation modules[cite: 1]. |
+| **06** | **DocSum**[cite: 1] | Assistant Developer[cite: 1] | Built drag-and-drop ingestion structures into a glassmorphism dark UI dashboard, utilizing local storage strategies to securely index hierarchical text summaries[cite: 1]. |
+| **07** | **Rolls-Royce Cinematic**[cite: 1] | Assistant Frontend Dev[cite: 1] | Developed asset-preloading pipelines managing a highly optimized **240-frame scroll-triggered image sequence** using vanilla JavaScript and Three.js layout overlays[cite: 1]. |
 
 ---
 
@@ -117,7 +127,7 @@
   * *Focus Tracks:* Object-Oriented Programming, Full-Stack Web Architecture, Data Structures, and Algorithmic Complexity[cite: 1].
 * **Islamiyah Matric Higher Secondary School**[cite: 1]
   * Higher Secondary (12th Grade) & Secondary Education (10th Grade)[cite: 1].
-  * History of exceptional analytical records and leadership involvements[cite: 1].
+  * History of exceptional academic analytical records and leadership involvements[cite: 1].
 
 ---
 
