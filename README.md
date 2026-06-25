@@ -30,8 +30,8 @@
 > *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Microsoft's mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*
 
 ### ⚡ Culture & Mindset Alignment
-* **Growth Mindset:** Fully aligned with structural engineering cultures of continuous personal, technical, and team-driven learning[cite: 1].
-* **Core Strengths:** Deeply focused on structural layout architecture, tracking dynamic event workflows, agile project sprint configurations, and systematic engineering loops[cite: 1].
+* **Growth Mindset:** Fully aligned with structural engineering cultures of continuous personal, technical, and team-driven learning.
+* **Core Strengths:** Deeply focused on structural layout architecture, tracking dynamic event workflows, agile project sprint configurations, and systematic engineering loops.
 
 ---
 
@@ -74,25 +74,25 @@
 
 ## ⚜️ Project Contributions & Engineering Impact
 
-### 🗳️ 01. EV-CAST — SecureVote | *Assistant Developer*[cite: 1]
-* **The Project:** A verifiable, full-stack live electronic voting platform engineered to support 700+ real-world members on an election day[cite: 1].
+### 🗳️ 01. EV-CAST — SecureVote | *Assistant Developer*
+* **The Project:** A verifiable, full-stack live electronic voting platform engineered to support 700+ real-world members on an election day.
 * **Core Architecture & Features:** 
   * Implemented **700 unique voter credentials**, ensuring each was independently issued, tracked, and guarded.
-  * Supported **role-based access control layers** to cleanly segment separate voter and administrative dashboard pipelines[cite: 1].
-  * Assisted in integrating a **Supabase Realtime sync layer** to broadcast live, multi-position ballot vote count tallies dynamically across all connected user devices[cite: 1].
+  * Supported **role-based access control layers** to cleanly segment separate voter and administrative dashboard pipelines.
+  * Assisted in integrating a **Supabase Realtime sync layer** to broadcast live, multi-position ballot vote count tallies dynamically across all connected user devices.
   * Standardized data handling routines to facilitate one-click exportable results CSV reports for non-technical staff.
 
-### 🩺 02. PCOD Care AI | *Assistant Developer*[cite: 1]
-* **The Project:** An AI-powered, multi-module corporate wellness and diagnostic platform leveraging LLM capabilities[cite: 1].
+### 🩺 02. PCOD Care AI | *Assistant Developer*
+* **The Project:** An AI-powered, multi-module corporate wellness and diagnostic platform leveraging LLM capabilities.
 * **Core Architecture & Features:**
-  * Supported the development of structured, multi-turn conversational prompt chains utilizing the Claude API as the primary reasoning engine[cite: 1].
+  * Supported the development of structured, multi-turn conversational prompt chains utilizing the Claude API as the primary reasoning engine.
   * Assisted in building a comprehensive **cycle phase tracker** mapping specific diagnostic attributes across follicular, ovulation, and luteal phases with severity scoring mechanics.
   * Maintained structural focus on integrating interactive hospital locator databases for region clusters alongside simplified plain-language guidance documentation for major Indian government health schemes (e.g., Ayushman Bharat).
 
-### 🌾 03. AgriGuard | *Assistant Developer*[cite: 1]
-* **The Project:** A robust, **15-screen farmer support platform** designed to drive localized agricultural insights and crop security[cite: 1].
+### 🌾 03. AgriGuard | *Assistant Developer*
+* **The Project:** A robust, **15-screen farmer support platform** designed to drive localized agricultural insights and crop security.
 * **Core Architecture & Features:**
-  * Assisted in crafting the end-to-end processing pipelines linking a **40+ crop database** (disease, soil, and seasoning models) with Claude Vision image analysis engines[cite: 1].
+  * Assisted in crafting the end-to-end processing pipelines linking a **40+ crop database** (disease, soil, and seasoning models) with Claude Vision image analysis engines.
   * Co-developed data parsers connecting to open APIs (e.g., Open-Meteo) to stream live weather analytics and real-time mandi market price indices.
   * Formulated mathematical state tracking arrays supporting an interactive predictive yield and production cost model.
 
@@ -102,32 +102,32 @@
 
 | # | Project | Role | Upgraded Technical Implementation Scope |
 |---|---|---|---|
-| **04** | **BizConnect**[cite: 1] | Assistant Developer[cite: 1] | Contributed to an AI-driven, peer-to-peer networking platform using Claude API loops to parse investor portfolios and instantly generate contextual profile icebreakers[cite: 1]. |
-| **05** | **Chemify**[cite: 1] | Assistant Developer[cite: 1] | Designed structured SVG-interactive graphics and engineered persistent conversational logic to securely balance complex multi-turn chemical equation modules[cite: 1]. |
-| **06** | **DocSum**[cite: 1] | Assistant Developer[cite: 1] | Built drag-and-drop ingestion structures into a glassmorphism dark UI dashboard, utilizing local storage strategies to securely index hierarchical text summaries[cite: 1]. |
-| **07** | **Rolls-Royce Cinematic**[cite: 1] | Assistant Frontend Dev[cite: 1] | Developed asset-preloading pipelines managing a highly optimized **240-frame scroll-triggered image sequence** using vanilla JavaScript and Three.js layout overlays[cite: 1]. |
+| **04** | **BizConnect** | Assistant Developer | Contributed to an AI-driven, peer-to-peer networking platform using Claude API loops to parse investor portfolios and instantly generate contextual profile icebreakers. |
+| **05** | **Chemify** | Assistant Developer | Designed structured SVG-interactive graphics and engineered persistent conversational logic to securely balance complex multi-turn chemical equation modules. |
+| **06** | **DocSum** | Assistant Developer | Built drag-and-drop ingestion structures into a glassmorphism dark UI dashboard, utilizing local storage strategies to securely index hierarchical text summaries. |
+| **07** | **Rolls-Royce Cinematic** | Assistant Frontend Dev | Developed asset-preloading pipelines managing a highly optimized **240-frame scroll-triggered image sequence** using vanilla JavaScript and Three.js layout overlays. |
 
 ---
 
 ## ⚜️ Competitions & Prototyping
 
-#### 🇮🇳 Smart India Hackathon (SIH) — National Competitor[cite: 1]
-* Represented the core college team at India’s largest national hackathon[cite: 1].
-* Contributed directly to full-stack rapid prototyping solutions under intense time-gated requirements[cite: 1].
+#### 🇮🇳 Smart India Hackathon (SIH) — National Competitor
+* Represented the core college team at India’s largest national hackathon.
+* Contributed directly to full-stack rapid prototyping solutions under intense time-gated requirements.
 
-#### ⚡ Hackathon 360[cite: 1]
-* Designed and engineered a functional web application prototype tackling live user problem statements within a strict 24-hour window[cite: 1].
-* Led the frontend interface layer development and business workflow analytical logic mapping[cite: 1].
+#### ⚡ Hackathon 360
+* Designed and engineered a functional web application prototype tackling live user problem statements within a strict 24-hour window.
+* Led the frontend interface layer development and business workflow analytical logic mapping.
 
 ---
 
 ## ⚜️ Education & Academic Core
 
-* **Bachelor of Engineering (B.E.) — Computer Science Engineering**[cite: 1]
-  * *Focus Tracks:* Object-Oriented Programming, Full-Stack Web Architecture, Data Structures, and Algorithmic Complexity[cite: 1].
-* **Islamiyah Matric Higher Secondary School**[cite: 1]
-  * Higher Secondary (12th Grade) & Secondary Education (10th Grade)[cite: 1].
-  * History of exceptional academic analytical records and leadership involvements[cite: 1].
+* **Bachelor of Engineering (B.E.) — Computer Science Engineering**
+  * *Focus Tracks:* Object-Oriented Programming, Full-Stack Web Architecture, Data Structures, and Algorithmic Complexity.
+* **Islamiyah Matric Higher Secondary School**
+  * Higher Secondary (12th Grade) & Secondary Education (10th Grade).
+  * History of exceptional academic analytical records and leadership involvements.
 
 ---
 
