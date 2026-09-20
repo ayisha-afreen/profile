@@ -70,7 +70,7 @@ public class AyishaAfreen {
 
 ## ⚜️ Professional Focus & Mindset
 
-> *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Microsoft's mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*
+> *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*
 
 ### 🌿 Culture & Core Strengths Alignment
 * 💡 **Growth Mindset:** Deeply aligned with Microsoft's culture of continuous technical learning, curiosity, and iterative development.
